@@ -37,15 +37,7 @@ Each basket represents all books reviewed by a single user.
   - 1304 candidate pairs → 1302 confirmed  
 
 - Many frequent pairs correspond to **different editions or related books from
-  the same series**, reflecting realistic co-reading behavior.
-
-## Technologies Used
-
-- Python  
-- Pandas  
-- NumPy  
-- Matplotlib  
-- Seaborn  
+  the same series**, reflecting realistic co-reading behavior. 
 
 ## Reference
 
