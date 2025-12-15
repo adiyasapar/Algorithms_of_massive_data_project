@@ -6,9 +6,10 @@ The project focuses on frequent itemset mining (L1 and L2) using a manual implem
 # Dataset
 Source: Amazon Books Reviews Dataset (Kaggle)
 Size: ~3 million original reviews
+
 Final processed data:
-- 66,082 user baskets
-- 472 retained book items after pruning
+-- 66,082 user baskets
+-- 472 retained book items after pruning
 Each basket represents all books reviewed by a single user.
 
 ## Key Findings
